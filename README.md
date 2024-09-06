@@ -4,7 +4,7 @@ Generation of realistic 3D vasculature within a bounded mesh, mimicking natural 
 
 Created in Unity3D using C#. Some prototyping with Python in Blender.
 
-Designed for straightforward use and broad applicability, with clear step-by-step instructions and documentation. 
+Designed for straightforward use and broad applicability, with clear step-by-step instructions and documentation. Designed to be modular for scalability. 
 
 My largest project to date @ > 10,000 lines of code written over several months. 
 
